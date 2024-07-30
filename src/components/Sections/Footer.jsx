@@ -146,10 +146,10 @@ const Footer = () => {
              
             </div>
           </div>
-          <p className="text-base text-body-color :text--6  flex items-center justify-center pt-6 ">
+{/*           <p className="text-base text-body-color :text--6  flex items-center justify-center pt-6 ">
                   &copy; 2024 <span className="text-[#097cbf] font-semibold mx-1"> Adonitech </span>  Design & Developed by 5techG
                 </p>
-                
+                 */}
         </div>
         <div>
           <span className="absolute bottom-0 left-0 z-[-1]">
